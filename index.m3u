@@ -62,8 +62,6 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/257.ts
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="https://tvepg.eu/img/turkey/logo/teve_2.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: TEVE 2 HD
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/226.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV HD" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: ARTI TV HD
-http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/110476.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tgrt_eu.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: TGRT EU HD
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/110477.ts
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV AVRUPA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv_tr_avrupa.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: ATV AVRUPA
@@ -691,6 +689,12 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209940.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HD+" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: FLASH HD+
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/179606.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/can-tv-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: Can TV
+http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/37398.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: YOL TV
+http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/112513.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV HD" tvg-logo="https://i.ytimg.com/vi/xpoetRCJKqY/maxresdefault.jpg" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: ARTI TV HD
+http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/110476.ts
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: TRT HABER HD+
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/418.ts
 #EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-haber-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: TRT HABER HD
@@ -725,7 +729,6 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/407.ts
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/360_tv_tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: 360 HD
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/409.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: BRT 3
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/114884.ts
 #EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TR: EKOTURK TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekoturk-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: EKOTURK TV
@@ -1184,8 +1187,6 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/18570.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sivas" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: Sivas
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/18572.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/can-tv-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: Can TV
-http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/37398.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: YASIN TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: YASIN TV
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/52832.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: HRT" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hrt_akdeniz_tv_tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: HRT
@@ -1198,8 +1199,6 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/107951.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Manisa TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manisa-tv-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: Manisa TV
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/107958.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: YOL TV
-http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/112513.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BENGUTURK HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bengu_turk.png" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: BENGUTURK HD
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/112983.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: BURSA LINE TV" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | YEREL",TR: BURSA LINE TV
